@@ -14,7 +14,6 @@ Self-study on font family, size, weight of text widget in Tkinter
 # import
 from tkinter import *
 from tkinter import font
-from tkinter.ttk import Separator
 
 
 # functions
